@@ -1,6 +1,8 @@
 # Prework Study Guide Webpage
 
-## This prework study guide was created to help boot camp students who are working their way through the prework. It contains notes on HTML, CSS, Git, and JavaScript. It also contains a suggestion on which topic to study first in the console. While creating this study guide I learned some basic HTML, CSS, Git and JavaScript and was able to apply them in a hands on project. 
+## Description
+
+This prework study guide was created to help boot camp students who are working their way through the prework. It contains notes on HTML, CSS, Git, and JavaScript. It also contains a suggestion on which topic to study first in the console. While creating this study guide I learned some basic HTML, CSS, Git and JavaScript and was able to apply them in a hands on project. 
 
 ## Installation
 
